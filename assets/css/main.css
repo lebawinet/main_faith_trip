@@ -1162,19 +1162,19 @@
     z-index: -1;
 }
 
-.taxi-holder .taxi {
-    background-image: url(../img/taxi.png);
+.taxih {
+    background-image: url(../img/main_1165.png);
     background-repeat: no-repeat;
     background-position: center right;
     background-size: contain;
     width: 650px;
     height: 100%;
     position: absolute;
-    right: 75px;
+    right: 21%;
     top: 80px;
 }
 
-.taxi-holder .mockup {
+/* .taxi-holder .mockup {
     background-image: url(../img/mockup.png);
     background-repeat: no-repeat;
     background-position: center right;
@@ -1185,9 +1185,9 @@
     right: 330px;
     top: -120px;
     z-index: -1;
-}
+} */
 
-.taxi-holder .charecter {
+/* .taxi-holder .charecter {
     background-image: url(../img/charecter.png);
     background-repeat: no-repeat;
     background-position: center right;
@@ -1197,12 +1197,12 @@
     position: absolute;
     right: 130px;
     top: 80px;
-}
+} */
 
 .location-marker {
     position: absolute;
-    right: 17%;
-    top: 20px;
+    right: 30%;
+    top: 130px;
     animation: bounce 2s infinite;
     -webkit-animation: bounce 2s infinite;
     -moz-animation: bounce 2s infinite;
