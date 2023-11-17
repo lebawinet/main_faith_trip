@@ -1477,14 +1477,14 @@
 }
 
 .cta-men {
-    background-image: url(../img/cta-men.png);
+    background-image: url(../img/taxi_driver-01.png);
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: contain;
     width: 100%;
     height: 100%;
     position: absolute;
-    right: 130px;
+    right: 250px;
     bottom: -30px;
     z-index: -1;
 }
