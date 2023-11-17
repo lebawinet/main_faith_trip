@@ -283,7 +283,7 @@
     }
 
     .nav-menu-inner:before {
-        background-color: #ff9900;
+        background-color: #AB182A;
         clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 1% 100%);
         content: "";
         position: absolute;
