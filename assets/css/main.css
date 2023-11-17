@@ -1646,9 +1646,12 @@
 }
 
 .team-content h3 a {
-    background-color: #CC2539;
+    background-color: #b30707;
+  
+    /* background-color: #CC2539; */
     clip-path: polygon(0 0, 100% 0, 100% 70%, 90% 100%, 0 100%);
-    background-image: repeating-linear-gradient(45deg, #f7a20f 0, #f7a20f 2px, transparent 0, transparent 50%);
+    background-image: repeating-linear-gradient(45deg, #f72e0f24 0, rgb(207, 40, 6) 2px, transparent 0, transparent 50%);
+
     background-size: 8px 8px;
     width: 90%;
     height: 70px;
