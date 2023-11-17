@@ -70,7 +70,7 @@
 
 .top-header-nav li a:hover,
 .header-social-share li a:hover {
-    color: #ff9900;
+    color: #CC2539;
 }
 
 .top-header-nav {
@@ -112,7 +112,7 @@
 
 .header-info li .header-info-icon {
     font-size: 40px;
-    color: #ff9900;
+    color: #CC2539;
     margin-right: 5px;
 }
 
@@ -125,7 +125,7 @@
 }
 
 .header-info li .header-info-text h3 a:hover {
-    color: #ff9900;
+    color: #CC2539;
 }
 
 .header-info li .header-info-text h3 span {
@@ -170,7 +170,7 @@
 
 .sticky-header .menu-right-item .sidebox-icon:hover, 
 .sticky-header .menu-right-item .search-icon:hover{
-    color: #ff9900;
+    color: #CC2539;
 }
 
 .sticky-header .menu-right-item .sidebox-icon, 
@@ -419,7 +419,7 @@
     }
 
     .header-menu-wrap li li>a:hover {
-        color: #ff9900;
+        color: #CC2539;
     }
 
     .header-menu-wrap li ul li ul {
@@ -483,7 +483,7 @@
     }
 
     .sticky-fixed-top .header-menu-wrap ul li li > a:hover{
-        color: #ff9900;
+        color: #CC2539;
     }
 
     .sticky-fixed-top .menu-right-item .menu-btn {
@@ -636,7 +636,7 @@
     }
 
     .header-menu-wrap li li:hover>a {
-        color: #ff9900;
+        color: #CC2539;
     }
 
     .header-menu-wrap ul li>a:before {
@@ -760,7 +760,7 @@
 
 #popup-search-box .box-inner-wrap input:focus {
     outline: none;
-    border: 1px solid #ff9900;
+    border: 1px solid #CC2539;
 }
 
 #popup-search-box .box-inner-wrap button {
@@ -783,7 +783,7 @@
 }
 
 #popup-search-box .box-inner-wrap button:hover {
-    color: #ff9900;
+    color: #CC2539;
 }
 
 #popup-search-box .box-inner-wrap button:focus {
@@ -803,7 +803,7 @@
 }
 
 .search-close:hover {
-    color: #ff9900;
+    color: #CC2539;
     transform: scale(1.1);
 }
 
@@ -882,7 +882,7 @@
     }
 
     .sidebox-content .sidebox-list li.call {
-        color: #ff9900;
+        color: #CC2539;
         font-size: 28px;
         font-weight: 700;
     }
