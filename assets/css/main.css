@@ -2137,8 +2137,8 @@ textarea:-ms-input-placeholder {
     background-position: right bottom;
     background-size: contain;
     position: absolute;
-    width: 110px;
-    height: 40px;
+    width: 150px;
+    height: 80px;
     right: 0;
     bottom: 0;
     animation: running-anim 20s linear infinite;
@@ -2150,8 +2150,8 @@ textarea:-ms-input-placeholder {
     background-position: right bottom;
     background-size: contain;
     position: absolute;
-    width: 110px;
-    height: 40px;
+    width: 180px;
+    height: 80px;
     right: 30%;
     bottom: 0;
     animation: running-anim 30s linear infinite;
@@ -2163,7 +2163,7 @@ textarea:-ms-input-placeholder {
     background-position: right bottom;
     background-size: contain;
     position: absolute;
-    width: 100px;
+    width: 150px;
     height: 100px;
     right: 70%;
     bottom: 0;
