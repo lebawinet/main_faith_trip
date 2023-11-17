@@ -673,7 +673,7 @@ button {
 }
 
 .section-heading h4 span {
-    background-color: #ff9900;
+    background-color: rgb(169, 48, 4);
     transform: skew(-20deg, 0deg);
     display: inline-flex;
     width: 4px;
@@ -685,7 +685,7 @@ button {
 
 .section-heading h4 span:after,
 .section-heading h4 span:before {
-    background-color: #ff9900;
+    background-color: #ff0000;
     content: "";
     width: 4px;
     height: 100%;
@@ -765,7 +765,7 @@ button {
 }
 
 .page-header:before {
-    background-color: #222;
+    background-color: #222; 
     opacity: 0.8;
     content: "";
     width: 100%;
@@ -786,8 +786,8 @@ button {
 }
 
 .page-header-shape:before {
-    background-color: #ff9900;
-    background-image: repeating-linear-gradient(45deg, #f7a20f 0, #f7a20f 2px, transparent 0, transparent 50%);
+    background-color:   #b30707;
+    background-image: repeating-linear-gradient(45deg, #f72e0f24 0, rgb(207, 40, 6) 2px, transparent 0, transparent 50%);
     background-size: 10px 10px;
     clip-path: polygon(10% 0%, 100% 0%, 100% 100%, 0% 100%);
     content: "";
@@ -908,7 +908,7 @@ button {
     width: 100%;
     height: 100%;
     text-align: center;
-    background-color: #ff9900;
+    background-color: #b30707;;
     font-size: 20px;
     padding: 0;
     line-height: 40px;

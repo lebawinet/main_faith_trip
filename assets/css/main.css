@@ -46,7 +46,7 @@
 }
 
 .about-img:before {
-    background-color: #ff9900;
+    background-color: rgb(162, 35, 7);
     border-radius: 2px;
     transform: skew(-20deg, 0deg);
     content: "";
@@ -2054,8 +2054,8 @@ textarea:-ms-input-placeholder {
 }
 
 .footer-top .footer-call:before {
-    background-color: #ff9900;
-    background-image: repeating-linear-gradient(45deg, #f7a20f 0, #f7a20f 2px, transparent 0, transparent 50%);
+    background-color: #b30707;
+    background-image: repeating-linear-gradient(45deg, #f72e0f24 0, rgb(207, 40, 6) 2px, transparent 0, transparent 50%);
     background-size: 10px 10px;
     content: '';
     width: 5000px;
@@ -2187,7 +2187,7 @@ textarea:-ms-input-placeholder {
 
 .footer-contact li span {
     display: block;
-    color: #ff9900;
+    color: #ff1313;
     font-size: 14px;
     font-weight: 600;
     text-transform: uppercase;
@@ -2216,14 +2216,14 @@ textarea:-ms-input-placeholder {
 }
 
 .subscribe-form .submit {
-    background-color: #ff9900;
+    background-color:  #b30707;
     clip-path: polygon(0 0, 100% 0%, 85% 100%, 0 100%);
     padding: 0 35px 0 30px;
     height: 45px;
     font-size: 16px;
     font-weight: 700;
     letter-spacing: -0.2px;
-    color: #222;
+    color: white;
     line-height: 45px;
     text-align: center;
 }
