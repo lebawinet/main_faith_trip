@@ -2118,6 +2118,7 @@ textarea:-ms-input-placeholder {
     bottom: 0;
     z-index: -1;
     overflow: hidden;
+    opacity: 40%;
 }
 
 .running-taxi {
@@ -2188,14 +2189,14 @@ textarea:-ms-input-placeholder {
 
 .footer-contact li span {
     display: block;
-    color: #ff1313;
+    color: #ffa313;
     font-size: 14px;
     font-weight: 600;
     text-transform: uppercase;
 }
 
 .footer-links li a:hover {
-    color: #CC2539;
+    color: #ffa313;
 }
 
 @media (min-width: 992px) {
