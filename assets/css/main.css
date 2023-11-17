@@ -2189,7 +2189,7 @@ textarea:-ms-input-placeholder {
 
 .footer-contact li span {
     display: block;
-    color: #ffa313;
+    color: rgb(170, 117, 32);
     font-size: 14px;
     font-weight: 600;
     text-transform: uppercase;
