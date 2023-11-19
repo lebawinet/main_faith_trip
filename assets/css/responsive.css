@@ -46,8 +46,8 @@
         background-image: none;
     }
     .taxi-holder .mockup,
-    .location-marker,
-    .taxi-holder .taxi,
+    .location-marker,.taxih,
+    .taxi-holder .taxi ,
     .taxi-holder .charecter{
         display: none;
     }
